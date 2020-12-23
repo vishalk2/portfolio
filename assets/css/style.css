@@ -171,7 +171,7 @@ html, body {
 .navbar-nav > li > a {
     padding: 5px 0;
     font-weight: 600;
-    color: #fff;
+    color: #ff4500;
     text-transform: uppercase;
     border-bottom: 4px solid transparent;
     transition: border-color 0.25s ease-in-out;
@@ -194,7 +194,7 @@ html, body {
 .nav > li > a:hover,
 .nav > li.active > a {
     background-color: transparent;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid #ff4500;
 }
 
 .nav > li > a:focus {
